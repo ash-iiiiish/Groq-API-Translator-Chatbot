@@ -21,16 +21,19 @@ This project is ideal for learning how to integrate LLMs into Python application
 
 ```text
 Groq-API-Chatbot-main/
-  Groq-API-Chatbot-main/
-    README.md
-    groq.ipynb
-    main.py
-    requirements.txt
-    streamlit_app.py
-    __pycache__/
-      main.cpython-310.pyc
-    images/
-      image.png
+│
+├── main.py                 # FastAPI backend with Groq + LangChain
+├── streamlit_app.py        # Streamlit frontend UI
+├── requirements.txt        # Project dependencies
+├── groq.ipynb              # Notebook for testing Groq API
+├── README.md               # Project documentation
+│
+├── images/
+│   └── image.png           # UI / project screenshots
+│
+└── __pycache__/
+    └── main.cpython-310.pyc
+
 ```
 
 ---
