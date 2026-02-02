@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+ipykernel
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+requests
+streamlit
+chromadb
+langchain-groq
+fastapi
+langserve
